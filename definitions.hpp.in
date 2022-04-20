@@ -1,0 +1,6 @@
+#ifndef REDIS_DEFINITIONS_HPP
+#define REDIS_DEFINITIONS_HPP
+
+#define REDIS_VERSION "@redis_client_VERSION@"
+
+#endif

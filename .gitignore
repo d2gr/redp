@@ -1,0 +1,7 @@
+out
+html
+.cmake
+build
+bin
+*.json
+.vs
